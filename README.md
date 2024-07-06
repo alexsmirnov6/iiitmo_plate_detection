@@ -1,13 +1,7 @@
 # Выравнивание изображений номеров автомобилей
 
 ## Структура проекта
-_labeled_detection_data_ - размеченный и аугментированный датасет для дообучения моделей yolo (рекомендуется использовать версии yolov7 и yolov8) 
-
-_labeled_detection_data/train_ - тренировочная выборка
-
-_labeled_detection_data/valid_ - валидационная выборка
-
-_labeled_detection_data/run.yaml_ - файл для дообучения yolo
+_[labeled_detection_data](https://drive.google.com/file/d/12dqrL_Vtbkl30msHJRsYCR0U-wKRsPc0/view?usp=sharing)_ - ссылка на Google Drive на размеченный и аугментированный датасет для дообучения моделей yolo (рекомендуется использовать версии yolov7 и yolov8). Включает в себя 3000 изображений, разделенных на тренировочную и валидационную выборки
 
 _pipeline_algo.ipynb_ - ноутбук с решением задачи с помощью алгоритмического поиска контуров
 
