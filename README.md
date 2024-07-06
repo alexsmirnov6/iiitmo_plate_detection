@@ -5,11 +5,9 @@ _[labeled_detection_data](https://drive.google.com/file/d/12dqrL_Vtbkl30msHJRsYC
 
 _pipeline_algo.ipynb_ - ноутбук с решением задачи с помощью алгоритмического поиска контуров
 
-_pipeline_yolo.ipynb_ - ноутбук с решением задачи с помощью дообученной модели yolov8
+_pipeline_yolo.ipynb_ - ноутбук с дообучением yolov8m и выравнивания номерных знаков с помощью нее
 
-_[finetuned_yolov8m.pth](https://drive.google.com/file/d/175FDeftzEQp-NvVz2WOZFEOHOVupW8BW/view?usp=sharing)_ - ссылка на Google Drive на веса дообученной модели yolov8m под распознавание углов номерного знака
-
-_yolo_finetune.ipynb_ - ноутбук с дообучением yolov8l
+_[finetuned_yolov8m.pt](https://drive.google.com/file/d/175FDeftzEQp-NvVz2WOZFEOHOVupW8BW/view?usp=sharing)_ - ссылка на Google Drive на веса дообученной модели yolov8m под распознавание углов номерного знака
 
 ## Основная идея подхода
 Наше решение позволяет __выравнивать номерные знаки__, упрощая процесс их __распознавания и оцифровки__.
